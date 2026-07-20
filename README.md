@@ -4,7 +4,7 @@ This repository contains my solutions to SQL problems from **HackerRank**. It se
 
 ## 👤 HackerRank Profile
 
-🔗 **Profile:** https://www.hackerrank.com/profile/svijender130
+🔗 **Profile:** https://www.hackerrank.com/profile/krvijender29
 
 ---
 
